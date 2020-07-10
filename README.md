@@ -1,5 +1,7 @@
 # matplotlib-challenge
 
+I was given data from an animal study, and in this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. I was tasked to generate all of the tables and figures needed for the technical report of the study. I was also asked for a top-level summary of the study results.
+
 Before I began the analysis, I checked the data for duplicate mice and remove any data associated with that mouse ID.
 
 - Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
